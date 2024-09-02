@@ -3,7 +3,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Akshay Ratnakar</h1>
-<h3 align="center">I'm a passionate full-stack web developer with 3.6 years of experience, currently working as a senior software developer. I thrive on creating robust and user-friendly web applications that leverage cutting-edge technologies. My expertise lies in crafting seamless experiences across the entire web development stack.</h3>
+<h3 align="center">I'm a passionate full-stack web developer with 3.8 years of experience, currently working as a senior software developer. I thrive on creating robust and user-friendly web applications that leverage cutting-edge technologies. My expertise lies in crafting seamless experiences across the entire web development stack.</h3>
 <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbHVvcmFqcWFqZnN3Y2djeTF2cTJkZDd1OWxpenYwNGNhbTZwYmVtOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="coding" align="right" />
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akshay227&label=Profile%20views&color=0e75b6&style=flat" alt="akshay227" /> </p>
 
